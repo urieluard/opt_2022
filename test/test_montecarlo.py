@@ -1,6 +1,6 @@
 import pytest
 import math
-import montecarlo
+from montecarlo import integracion
 import numpy as np
 
 def test_integracion():
@@ -10,4 +10,4 @@ def test_integracion():
     a2 = 0
     b2 = 1
     obj = 2/3*(2/5*2**(5/2)-4/5)
-    assert montecarlo.integracion(f, a1, b1, a2, b2) - obj < 0.01
+    assert integracion(f, a1, b1, a2, b2) - obj < 0.01
