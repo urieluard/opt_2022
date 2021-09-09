@@ -1,6 +1,6 @@
 import pytest
 import math
-import montecarlo
+import src.montecarlo
 import numpy as np
 
 
