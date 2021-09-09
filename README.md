@@ -9,7 +9,9 @@ Para este ejercicio, se creó un Workflow a partir de una plantilla predefinida 
 
 El repo tiene la siguiente estructura:
 
+```
 ├── README.md                   <- Explicación y justificación del repositorio
 │── montecarlo.py               <- Script con la función "integración" implementada para resolver una integral doble con el método de Montecarlo
 ├── test
 │   └── test_integracion.py     <- Script con la función desarrollada para la prueba de integración
+```
