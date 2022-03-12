@@ -21,3 +21,5 @@ Nota: Para editar los botones de Binder ver [aquí](https://mybinder.readthedocs
 Si se desea crear un paquete nuevo (no de las librerías estandar de python), seguir estas [instrucciones](https://github.com/binder-examples/setup.py/blob/master/example_notebook/import_mypackage.ipynb)
 
 Hay que configurar la estructura de carpetas con los módulos y funciones que contenga el paquete o librería implementada ([ver aquí](https://www.tutorialsteacher.com/python/python-package))
+
+El ejemplo creado en este repo para un paquete propio [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/urieluard/opt_2022/main?labpath=paq_prueba.ipynb)
