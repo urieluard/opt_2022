@@ -8,7 +8,7 @@ En este repositorio se harán pruebas de los ejercicios que se estén desarrolla
 
 ## Sobre BINDER
 
-1. Crear el archivo de requirements.txt
+1. Crear el archivo de **requirements.txt**. Con [_watermark_](https://github.com/rasbt/watermark) se pueden obtener las versiones de las librerías deseadas
 2. Crear el notebook que se quiera lanzar con el boton de Binder
 3. Entrar a este [link](https://mybinder.org/) para generar el vínculo que correrá el _launcher_ de Binder
 
