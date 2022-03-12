@@ -14,4 +14,6 @@ En este repositorio se harán pruebas de los ejercicios que se estén desarrolla
 
 Ejemplo de [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/urieluard/opt_2022/main?labpath=final.ipynb)
 
+Nota: Para editar los botones de Binder ver [aquí](https://mybinder.readthedocs.io/en/latest/howto/badges.html)
+
 Si se desea crear un paquete nuevo (no de las librerías estandar de python), seguir estas [instrucciones](https://github.com/binder-examples/setup.py/blob/master/example_notebook/import_mypackage.ipynb)
