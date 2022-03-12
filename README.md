@@ -4,3 +4,5 @@
 En este repositorio se harán pruebas de los ejercicios que se estén desarrollando durante el curso de Optimización II 2022
 
 1) La primera Prueba que se hace es para comprobar la funcionalidad de GitHub Actions para hacer un docker file y subirlo a docker hub, con mi cuneta y usuario (de acuerdo con las notas del curso)
+
+Ejemplo de [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/urieluard/opt_2022/main?labpath=https%3A%2F%2Fgithub.com%2Furieluard%2Fopt_2022%2Fblob%2Fmain%2Ffinal.ipynb)
