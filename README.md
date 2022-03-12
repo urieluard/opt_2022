@@ -16,4 +16,8 @@ Ejemplo de [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org
 
 Nota: Para editar los botones de Binder ver [aquí](https://mybinder.readthedocs.io/en/latest/howto/badges.html)
 
+### Para crear un paquete y lanzarlo con Binder
+
 Si se desea crear un paquete nuevo (no de las librerías estandar de python), seguir estas [instrucciones](https://github.com/binder-examples/setup.py/blob/master/example_notebook/import_mypackage.ipynb)
+
+Hay que configurar la estructura de carpetas con los módulos y funciones que contenga el paquete o librería implementada ([ver aquí](https://www.tutorialsteacher.com/python/python-package))
